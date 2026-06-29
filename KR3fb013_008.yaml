@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb013/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 敕賜通徵教師光祿大夫加從一品通政使司通政掌欽天監印務湯若望纂著加正四品左監副又加一級劉有慶加正四品右監副又加一級周胤加從六品主簿又加一級掌秉加從五品春官正宋可成加正五品夏官正又加一級李祖白加正四品中官正又加一級賈食琦加正五品秋官正又加一級宋簇加正五品冬官正又加一級朱光顯加正七品官保章正又加一級劉有泰五官保章正張問明加監正御官相度事又加一級杜如預五官靈臺即加一級張其淳五官靈臺即黃鞏五官挈壺正加一級楊弘量加正八品五官司曆又加一級戈繼文
+  hash: sha256:ab6f0d4eeb7dbbd175f8970833af41778a46d77fdb45968a3c95ff87b9d00426
+metadata:
+  title: 民歷鋪註解惑
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb013.xml
+hash: sha256:023b723d97411b4b6366148e4afcb2d7bec39584a5955c8f0216abb8bbdb8f2b

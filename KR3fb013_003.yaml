@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb013/tls/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 民歷鋪註解惑
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb013.xml
+hash: sha256:a7f8ecf1c2f8e482c066717de4ec3e2f49d4922dc7a351b2759964fb5f4a0800

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb013/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 數千百年之久文詞殘缺意旨多晦澀而未明所賴後之君子虗心考求曲探旁通而其理始出有如夜分覔物手持燭篝光亮見於篝外義理見於言外茍不求之言外而徒泥其文何異滅燭息光空持一篝暗中摸索終無所提矣豈不亦羞古人而誤來學乎余自分鹵鈍祇緣身典曆務如客之殷勤過問者時
+  hash: sha256:c33b9e58436e3f97e47b45c6cfb1ba47c6df3242ff66e8ca2a565e5dc85db017
+metadata:
+  title: 民歷鋪註解惑
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb013.xml
+hash: sha256:29d434b68f7360bf692ecd2c95fe2d86b4a0e68a0de40a661dba68dc4d7d02f8

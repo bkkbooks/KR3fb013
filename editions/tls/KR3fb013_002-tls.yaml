@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb013/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有客問於余曰附曆之鋪註此亦西法否乎曆家何為而有此宜興忌之紛乎余應之曰鋪註之非西法進陳有䟽曉世有説刋附曆書非一日矣至所謂鋪註之紛紛其亦據理解之乎夫取平必以準取直必以繩理亦士君子論斷古今之準繩也舍理烏能決一辭然而曆學相傅歷
+  hash: sha256:b5ff5ca26ea5765f78d0053b08d6834441b9119a67c10da597ba862bf3503ac2
+metadata:
+  title: 民歷鋪註解惑
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb013.xml
+hash: sha256:2ca01ac6ab54a620e9417a26c873cc346ddda14e763280c986c9ab715267b8c4

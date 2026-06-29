@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb013/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五官司曆殷鎧加正七品愽士又加一級張光祥加從七品愽士又加一級臧文顯加從八品愽士又加一級焦應旭加從八品愽士又加一級鮑英齊加從八品愽士又加一級孫有本加從八品愽士又加一級周士昌加從八品愽士又加一級李光大加從八品愽士又加一級何其義加從八品愽士又加一級薛文炳加從八品愽士又加一級司爾珪愽士鮑英華愽士戈國琦共參
+  hash: sha256:9784b77bbb4deb9723526c1370874199e8f66a82bc99e9f0ffeaded46bc89320
+metadata:
+  title: 民歷鋪註解惑
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb013.xml
+hash: sha256:7576fdd5ea379fec7174fef3072b51fe68ff3679439232c5ead1b0fd80fef91f
