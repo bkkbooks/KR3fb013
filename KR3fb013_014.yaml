@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 五姓修宅說附摘一摘進七政疏一摘萬年寶曆疏一摘本局事宜疏一摘曉或一摘欽定新曆測驗祀略
-  hash: sha256:93f5f59c00d43b90455f7fc906f662e485d4d8efdb2bf74c59085c14c7e56033
+  text: 五姓修宅説附摘一摘進七政䟽一摘萬年寶曆䟽一摘本局事宜䟽一摘曉或一摘欽定新曆測驗祀略
+  hash: sha256:ffdfaf59de9afd67e678af35ce1a771b3ec4a8c0958a56cd07c675ce4a4e0549
 metadata:
   title: 民歷鋪註解惑
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb013.xml
-hash: sha256:8dfd236e4501d120a1a403d074b1de859c4198ed99d9ac3b72ed0d584722c3d0
+hash: sha256:8178a77d15697b6b3d8474b401bc0609abd7450172231195584eaa5dc5f7ce9d

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 於鋪於鋪注是從人愛慕前人之意原鋪注附曆頒行之故以經傅證上論以理證上論年神方位圖說月建說天道天德等說月建下九宮說天恩天赦等說太歲出遊說日遊說人神說太白遊方說長短星說百忌說祀竃說洗頭遊禍等日附男女宮及周堂圖說
-  hash: sha256:720a57646521e7fc213529946f340a17c4bda4ec71b92a8d434c0e6a5892de53
+  text: 於鋪於鋪註是從人愛慕前人之意原鋪註附曆頒行之故以經傅證上論以理證上論年神方位圖説月建説天道天德等説月建下九宮説天恩天赦等説太歲出遊説日遊説人神説太白遊方説長短星説百忌説祀竃説洗頭遊禍等日附男女宮及周堂圖説
+  hash: sha256:b10f0c5be8a9854801d635ec95e3d4b7c7ded07984f7d30cb93e7305e5d3be21
 metadata:
   title: 民歷鋪註解惑
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb013.xml
-hash: sha256:766f0b900f6316535ec62bd0dc863caa07fade5bd35c81feeb4d3b47ab7ce61e
+hash: sha256:32eed8c722cffd7338bd7f4b82b5628b4b3255dd93c2b5e0d66503b3414b7796
